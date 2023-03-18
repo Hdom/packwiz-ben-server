@@ -1,13 +1,13 @@
-name = "packwiz Example Pack"
-author = "comp500"
+name = "Ben Server 1.19.2"
+author = "MasterHdom"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "29bcf953b90081730cd8a32cc4d855ab6ad96685c3aeea6ed033dc4f04d390ac"
+hash = "52abf581c34fc06f9d52381bd89f59d5f433c3b2368aa656eb4d17228cc490fb"
 
 [versions]
-minecraft = "1.19"
-quilt = "0.17.0"
+forge = "43.2.6"
+minecraft = "1.19.2"
