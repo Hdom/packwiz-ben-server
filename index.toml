@@ -641,6 +641,10 @@ file = "config/packmenu.cfg"
 hash = "254f4f97a9afca052dc1b29d0855579df9e3533d9f985782a35216df5ff8ee68"
 
 [[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "2aef2ee9a33cccad15e960149dab806c69d39eacf6e5217fe7ac84f90ae602de"
+
+[[files]]
 file = "config/powah.json5"
 hash = "a46cb67a1ca30189d7012bc3c807042e4e02e1272be7a9025b9e6d53694fc94e"
 
@@ -763,6 +767,10 @@ hash = "b361d4e5a6328540f65dc5ffc40420b144d82a0e89725b3823019d6e97a050ab"
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
 hash = "1619f59627dc6d7666798fd1304842a86b5ee55ac16fba72dd3ed5d8c20b9e14"
+
+[[files]]
+file = "jars/physics-mod-pro-v140-forge-1.19.2.jar"
+hash = "7d625253b53f9605677951ae04947c6efce1d05b55bd34d7c75312ed01e9a0fb"
 
 [[files]]
 file = "kubejs/assets/kubejs/blockstates/magical_soil.json"
@@ -1733,6 +1741,11 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "8ffb89a8ae93f3c979726cb73b4f424e9b487667212969a7202f371662e498ed"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
+metafile = true
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "607f59c6a965d6f80bef23be9fcd28b9bd2a5b9fb2f037c27b91b35692e1811a"
 metafile = true
@@ -1809,7 +1822,7 @@ metafile = true
 
 [[files]]
 file = "mods/all-the-tweaks.pw.toml"
-hash = "15276449fde0ed51c74f99bcb717c1eb90cc82736bf5632ac8967144527e7b02"
+hash = "df5a6ff085956d7cea918c5b6952094b6046b085a12798dd1cf489c44c34cc3d"
 metafile = true
 
 [[files]]
@@ -1948,6 +1961,11 @@ hash = "d703869d986cb0e9f945436d47627906c79ca25c83bd6369d4eb2114a22f876a"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "59089f654ca46ed99c21cf444b2095892096cff05a73d406bb821b467b26a842"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "9663ee96acafe87505ec857774af6a0c07dbc5a9d5aac90de2ef8bb2fa106aef"
 metafile = true
@@ -2049,7 +2067,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
+hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
 
 [[files]]
@@ -2329,7 +2347,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
+hash = "58ecf8f9d6818c9c64c30decdd0126c2b3001539b56e001cf6120879863e8a05"
 metafile = true
 
 [[files]]
@@ -2544,7 +2562,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "72036280db30270c6d96b8d4da3c337313d087148a48558a9a714db1ce0244ec"
+hash = "af63c9636a1db7d4e45a554c59ccf04d126a439ec3b6beded187500f7a4e6dba"
 metafile = true
 
 [[files]]
@@ -2868,6 +2886,16 @@ hash = "13e10e5493f19da1737436c19899a26845c9c965f1b00ba30ee48863f44ae324"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "b83da1d4b1cfd098abd7cb0bbab6b146dee448d5a2b725671b9593c2d6244638"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "f33768d1f65232ab5dad941f87b4e9e2e8cf8cd19828f1c00791989b17eb5b2d"
+metafile = true
+
+[[files]]
 file = "mods/packmenu.pw.toml"
 hash = "7b172d722a53635abb8c59898f97355936268c1a1b02c3c9a056bf99b9918449"
 metafile = true
@@ -2888,6 +2916,11 @@ hash = "c774f72c300c9656cba2eee100b0f9d70ca3576e782cbcb999ac530c9bcc02d6"
 metafile = true
 
 [[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "cfaef4bd064ef030eb408e9fbf0bbb387d079c32c2b7d9a960f41ec19fc29953"
+metafile = true
+
+[[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "13c88dde7a2157bbe8e803fc9a46a765c9c7392ff724cbe3855ae84f1f77e91b"
 metafile = true
@@ -2905,6 +2938,11 @@ metafile = true
 [[files]]
 file = "mods/platforms.pw.toml"
 hash = "6a6c27e1c61d2b0c4fd583483deba95e254831c1d75aa0fe2e9a787b3b7b8c63"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "d6c0f05a4982b73b78910bd95f917bb8a934f4f233d218a3ccc22ea7ecc8bf55"
 metafile = true
 
 [[files]]
@@ -3074,7 +3112,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "d6a02b617d73812b20a2f8e483ea9791ecbf8de2649611bde123b6bb5d9ce365"
+hash = "8a30d29e53a171b3fd6d12f0fbcd71fd6d4cc849f92eb4cbcf9dfb070c4e6138"
 metafile = true
 
 [[files]]
@@ -3244,7 +3282,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "99841912147fd4c0ce8097f7b653e60632deff2b79ce3aadff112319aff1baec"
+hash = "f731f66e51768da8df2a3c0c6c82f847867037d4868bb05de257377f002bcf9f"
 metafile = true
 
 [[files]]
