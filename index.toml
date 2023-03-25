@@ -2937,8 +2937,8 @@ hash = "d6c0f05a4982b73b78910bd95f917bb8a934f4f233d218a3ccc22ea7ecc8bf55"
 metafile = true
 
 [[files]]
-file = "mods/pmpro-v140.jar"
-hash = "7d625253b53f9605677951ae04947c6efce1d05b55bd34d7c75312ed01e9a0fb"
+file = "mods/pmpro-v143b.jar"
+hash = "c8be53390a78dc3a8755eb54d46545c2cf5be1aeb0ec20026cd0c5998655c09a"
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
