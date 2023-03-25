@@ -769,10 +769,6 @@ file = "defaultconfigs/solcarrot-server.toml"
 hash = "1619f59627dc6d7666798fd1304842a86b5ee55ac16fba72dd3ed5d8c20b9e14"
 
 [[files]]
-file = "jars/physics-mod-pro-v140-forge-1.19.2.jar"
-hash = "7d625253b53f9605677951ae04947c6efce1d05b55bd34d7c75312ed01e9a0fb"
-
-[[files]]
 file = "kubejs/assets/kubejs/blockstates/magical_soil.json"
 hash = "c9cffd01a2dea78eb610b1d66ac7ffd9b483bebed298b78520a88a8b80f6d1a6"
 
@@ -2916,11 +2912,6 @@ hash = "c774f72c300c9656cba2eee100b0f9d70ca3576e782cbcb999ac530c9bcc02d6"
 metafile = true
 
 [[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "cfaef4bd064ef030eb408e9fbf0bbb387d079c32c2b7d9a960f41ec19fc29953"
-metafile = true
-
-[[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "13c88dde7a2157bbe8e803fc9a46a765c9c7392ff724cbe3855ae84f1f77e91b"
 metafile = true
@@ -2944,6 +2935,10 @@ metafile = true
 file = "mods/playeranimator.pw.toml"
 hash = "d6c0f05a4982b73b78910bd95f917bb8a934f4f233d218a3ccc22ea7ecc8bf55"
 metafile = true
+
+[[files]]
+file = "mods/pmpro-v140.jar"
+hash = "7d625253b53f9605677951ae04947c6efce1d05b55bd34d7c75312ed01e9a0fb"
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
